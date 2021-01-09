@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Lab03\Media_Sorting\bin\Debug\Media_Sorting.exe.config
+C:\Users\user\Desktop\Lab03\Media_Sorting\bin\Debug\Media_Sorting.exe
+C:\Users\user\Desktop\Lab03\Media_Sorting\bin\Debug\Media_Sorting.pdb
+C:\Users\user\Desktop\Lab03\Media_Sorting\obj\Debug\Media_Sorting.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Lab03\Media_Sorting\obj\Debug\Media_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lab03\Media_Sorting\obj\Debug\Media_Sorting.exe
+C:\Users\user\Desktop\Lab03\Media_Sorting\obj\Debug\Media_Sorting.pdb
+C:\Users\user\Desktop\Lab03(part_1)\Media_Sorting\bin\Debug\Media_Sorting.exe.config
+C:\Users\user\Desktop\Lab03(part_1)\Media_Sorting\bin\Debug\Media_Sorting.exe
+C:\Users\user\Desktop\Lab03(part_1)\Media_Sorting\bin\Debug\Media_Sorting.pdb
+C:\Users\user\Desktop\Lab03(part_1)\Media_Sorting\obj\Debug\Media_Sorting.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Lab03(part_1)\Media_Sorting\obj\Debug\Media_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lab03(part_1)\Media_Sorting\obj\Debug\Media_Sorting.exe
+C:\Users\user\Desktop\Lab03(part_1)\Media_Sorting\obj\Debug\Media_Sorting.pdb
